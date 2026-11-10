@@ -21,7 +21,7 @@ Aplicação desktop desenvolvida em Python utilizando Tkinter para gerar senhas 
 ## Como executar
 
 ```bash
-python main.py
+python GeradorDeSenhas.py
 ```
 
 ## Preview
